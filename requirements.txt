@@ -2,3 +2,6 @@ streamlit
 plotly
 torch
 smplx
+scipy
+chumpy
+numpy==1.23
